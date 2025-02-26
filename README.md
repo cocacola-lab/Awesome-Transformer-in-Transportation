@@ -17,7 +17,7 @@ A collection of resources on Transformer in Transportation.
 <h4 align="left">
     <p>
         <b>English</b> |
-        <a href="https://github.com/cocacola-lab/Awesome-Transformer-in-Transportation/README_zh.md">中文</a>
+        <a href="https://github.com/cocacola-lab/Awesome-Transformer-in-Transportation/blob/main/README_zh.md">中文</a>
     <p>
 </h4>
 
