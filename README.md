@@ -13,7 +13,14 @@
 A collection of resources on Transformer in Transportation.
 
 </div>
-  
+
+<h4 align="left">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/cocacola-lab/Awesome-Transformer-in-Transportation/README_zh.md">中文</a>
+    <p>
+</h4>
+
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Paper With Code](#head2)
@@ -29,7 +36,6 @@ A collection of resources on Transformer in Transportation.
   * - [ ] [Route Optimization](#head-Route-Optimization)
   * - [ ] [Accident Prediction](#head-Accident-Prediction)
   * - [ ] [Safety-Critical Event Detection](#head-Safety-Critical-Event-Detection)
-  * - [ ] [Traffic Condition Monitoring](#head-Traffic-Condition-Monitoring)
   * - [ ] [Traffic Scenario Identificationg](#head-Traffic-Scenario-Identification)
   * - [ ] [Other Applications](#head-Other-Applications)
 * - [ ] [3. Survey Paper](#head3)
@@ -47,7 +53,7 @@ A collection of resources on Transformer in Transportation.
 * 📌: The first...
 * 🚀: State-of-the-Art approach
 * 👑: Widely-used model
-* 📚：Multiple Tasks/Dataset/Benchmark
+* 📚：New Tasks/Dataset/Benchmark
 
 
 
@@ -87,7 +93,6 @@ A collection of resources on Transformer in Transportation.
 
 
    * <span id="head-Co-pilot-for-Drivers"> **Co-pilot for Drivers** </span> **[       «🎯Back To Top»       ](#)** 
-
        ```LLMs can function as co-pilots for drivers, providing real-time coaching, warnings, and directives to reinforce positive driving behaviors and enhance safety.```
       * (2024) **Fusing Pretrained LLMs And LGMs With Driving Data To Improve Road Safety**, Forbes Tech Council. [[Paper](https://www.forbes.com/councils/forbestechcouncil/2024/11/08/fusing-pretrained-llms-and-lgms-with-driving-data-to-improve-road-safety/)] [[Code](Not found)]  
         * ```Industry perspective on integrating language and geometric models for advanced driver assistance systems.```
@@ -99,7 +104,7 @@ A collection of resources on Transformer in Transportation.
       * (2025) **Transformer Algorithms Revolutionize AI: From Natural Language to Self-Driving Cars**, James Santana. [[Paper](https://medium.com/@jamesasantana/transformer-algorithms-revolutionize-ai-from-natural-language-to-self-driving-cars-cd0da43eff25)] [[Code](Not found)]  
         * ```Exploring multi-modal fusion strategies in autonomous driving using the Transformer architecture, and proposing a dynamic attention allocation mechanism.```
       * (2025) **Top LLM Development Companies**, SoluLab. [[Paper](https://www.solulab.com/top-llm-development-companies/)] [[Code](Not found)]  
-        * ```Industry Analysis Report: A Comparison of the Technical Roadmaps of LLM Development Companies in the Transportation Sector in 2025. MLLMs can enhance the control systems of autonomous vehicles by integrating textual analysis with real-time video and audio inputs to facilitate ```  
+        * ```Industry Analysis Report: A Comparison of the Technical Roadmaps of LLM Development Companies in the Transportation Sector in 2025. MLLMs can enhance the control systems of autonomous vehicles by integrating textual analysis with real-time video and audio inputs to facilitate ```   
       * (2024) **A Survey of Vision Transformers in Autonomous Driving**, Not specified. [[Paper](https://arxiv.org/html/2403.07542v1)] [[Code](Not found)]  
         * ```Systematic comparison of ViT and Swin Transformer architectures in lane detection tasks.```
 
@@ -143,11 +148,6 @@ A collection of resources on Transformer in Transportation.
 
      * <span id="head-Safety-Critical-Event-Detection"> **Safety-Critical Event Detection** </span> **[       «🎯Back To Top»       ](#)**
        ```MLLMs can analyze naturalistic driving videos to identify and understand safety-critical events, such as sudden changes in traffic patterns, unexpected obstacles, and potential collisions.```
-
-  
-     * <span id="head-Traffic-Condition-Monitoring"> **Traffic Condition Monitoring** </span> **[       «🎯Back To Top»       ](#)**
-        ```Classify traffic states (e.g., congestion, accidents)```
-        
           
      * <span id="head-Traffic-Scenario-Identification"> **Traffic Scenario Identification** </span> **[       «🎯Back To Top»       ](#)**
         ```Identify and define relevant scenario```
@@ -198,7 +198,7 @@ This is currently under active development. Check back soon for exciting updates
 
 ## <span id="head4"> *Contact Me* </span>
 
-* [Wenjuan Han](https://github.com/Yutong-Zhou-cv) in [CoLa Lab @ Beijing Jiaotong University.](https://github.com/cocacola-lab)
+* Wenjuan Han in [CoLa Lab @ Beijing Jiaotong University.](https://github.com/cocacola-lab)
 
 * Feel free to contact (💌: <wjhan@@bjtu.edu.cn>).
 * Thanks to [YutongZhou's Github template](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV.git).
